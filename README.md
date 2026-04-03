@@ -36,9 +36,11 @@ If it involves security, systems, or shipping real products, I’m probably work
 
 ## stats that go brrr
 
+## stats that go brrr
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivan-george710&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&cache_seconds=1" />
 </p>
 
 ---
