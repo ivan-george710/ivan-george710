@@ -1,59 +1,170 @@
 <div align="center">
 
-# Ivan George
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:1a1a1a&text=Ivan%20George&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40"/>
 
-### Cyber Security • Systems Engineering • Startup Builder
+<h3>Cyber Security • Systems Engineering • Founder @ CarbonCTRL</h3>
 
-B.Tech CSE (Cyber Security) @ VIT Chennai
+<p>
+Building secure systems, scalable software, and products that solve real-world problems.
+</p>
 
-Co-Founder & CEO of CarbonCTRL
+<br>
 
-Building software, security systems, and products that solve real-world problems.
+<a href="https://www.linkedin.com/in/ivan-george-90455028a">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail)](mailto:your-email)
+<a href="mailto:georgeivan554@gmail.com">
+<img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# About Me
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=24&pause=1500&center=true&vCenter=true&width=800&lines=Founder+%40+CarbonCTRL;Cyber+Security+Student;Full+Stack+Developer;Building+Systems+That+Actually+Work"/>
+
+</div>
+
+---
+
+# About
 
 ```yaml
-name: Ivan George
-education: BTech CSE Cyber Security
-university: VIT Chennai
+Name: Ivan George
 
-focus:
+Education:
+  - BTech CSE Cyber Security
+  - VIT Chennai
+
+Role:
+  - Founder
+  - Builder
+  - Developer
+
+Focus:
   - Cyber Security
-  - Full Stack Development
   - System Design
-  - Startup Building
-
-currently_building:
-  - CarbonCTRL
-  - Secure Mission Middleware
-  - Full Stack Applications
-  - AI Powered Platforms
-
-philosophy:
-  - Build > Consume
-  - Ship > Perfect
-  - Systems > Hype
+  - Product Engineering
+  - Startups
 ```
 
 ---
 
-# Currently Building
+<div align="center">
+
+# Current Focus
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="33%" align="center">
 
 ### CarbonCTRL
+
+Carbon Accounting
+
+Analytics
+
+AI Integration
+
+Platform Engineering
+
+</td>
+
+<td width="33%" align="center">
+
+### Security
+
+Authentication
+
+Authorization
+
+Threat Modeling
+
+Secure Systems
+
+</td>
+
+<td width="33%" align="center">
+
+### Development
+
+Full Stack Apps
+
+Cloud Infrastructure
+
+Databases
+
+Product Design
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivan-george710&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-george710&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ivan-george710&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Featured Projects
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%">
+
+## CarbonCTRL
 
 Carbon accounting platform helping organizations measure and reduce emissions.
 
@@ -61,104 +172,53 @@ Carbon accounting platform helping organizations measure and reduce emissions.
 
 <td width="50%">
 
-### Secure Systems
+## Secure Mission Middleware
 
-Building resilient systems with authentication, authorization, auditing and security-first design.
+Security-focused middleware for mission integrity, authentication, auditing and policy enforcement.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,ts,js,html,css" />
-</p>
-
-### Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase,github" />
-</p>
-
-### Security & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,vscode" />
-</p>
-
----
-
-# GitHub Analytics
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ivan-george710&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-george710&theme=tokyonight&hide_border=true"/>
+# Philosophy
 
 </div>
 
----
-
-# Contribution Activity
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivan-george710&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Current Interests
-
-- Offensive Security
-- Secure Architecture
-- Distributed Systems
-- AI Applications
-- Startup Operations
-- Product Engineering
-
----
-
-# What I'm Working Towards
 
 ```text
-Building products that solve real problems
-↓
-Growing successful startups
-↓
-Creating resilient and secure systems
-↓
-Scaling impact through technology
+Build.
+Break.
+Learn.
+Improve.
+Repeat.
 ```
 
----
-
-# Let's Connect
-
-Open to:
-
-- Startup collaborations
-- Security projects
-- Full-stack development
-- Building ambitious products
+</div>
 
 ---
 
 <div align="center">
 
-### Build. Break. Learn. Repeat.
+<img src="https://github-profile-trophy.vercel.app/?username=ivan-george710&theme=tokyonight&row=1&column=6&no-frame=true"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### Founder @ CarbonCTRL
+
+Building systems that survive contact with reality.
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:000000,100:1a1a1a"/>
