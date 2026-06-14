@@ -1,64 +1,164 @@
-# hey, I’m Ivan 👋
+<div align="center">
 
-BTech CSE (Cyber Security) @ VIT Chennai  
-co-founder & CEO @ CarbonCTRL  
+# Ivan George
 
-I’m a second year CS student focused on building systems that actually work in the real world.  
-I like breaking, testing, and validating systems to understand how they fail and how to make them stronger.  
-If it involves security, systems, or shipping real products, I’m probably working on it.
+### Cyber Security • Systems Engineering • Startup Builder
 
----
+B.Tech CSE (Cyber Security) @ VIT Chennai
 
-## currently building
+Co-Founder & CEO of CarbonCTRL
 
-- CarbonCTRL  
-- full stack applications  
-- secure and resilient systems  
+Building software, security systems, and products that solve real-world problems.
 
 ---
 
-## languages
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail)](mailto:your-email)
 
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B)
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)
-
----
-
-## web dev
-
-![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
-![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)
-![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
+</div>
 
 ---
 
-## stats that go brrr
+# About Me
 
-## stats that go brrr
+```yaml
+name: Ivan George
+education: BTech CSE Cyber Security
+university: VIT Chennai
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivan-george710&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=ivan-george710&theme=tokyonight&cache_seconds=1" />
+focus:
+  - Cyber Security
+  - Full Stack Development
+  - System Design
+  - Startup Building
+
+currently_building:
+  - CarbonCTRL
+  - Secure Mission Middleware
+  - Full Stack Applications
+  - AI Powered Platforms
+
+philosophy:
+  - Build > Consume
+  - Ship > Perfect
+  - Systems > Hype
+```
+
+---
+
+# Currently Building
+
+<table>
+<tr>
+<td width="50%">
+
+### CarbonCTRL
+
+Carbon accounting platform helping organizations measure and reduce emissions.
+
+</td>
+
+<td width="50%">
+
+### Secure Systems
+
+Building resilient systems with authentication, authorization, auditing and security-first design.
+
+</td>
+</tr>
+</table>
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,ts,js,html,css" />
+</p>
+
+### Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase,github" />
+</p>
+
+### Security & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,vscode" />
 </p>
 
 ---
 
-## contribution graph
+# GitHub Analytics
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivan-george710&theme=tokyo-night)
+<div align="center">
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ivan-george710&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## random facts
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-george710&theme=tokyonight&hide_border=true"/>
 
-- interested in cybersecurity and system design  
-- prefers building over just consuming tutorials  
-- focused on real-world impact over theory  
+</div>
 
 ---
 
-## say hi
+# Contribution Activity
 
-always open to collaborating on interesting systems, security projects, or startups
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivan-george710&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Current Interests
+
+- Offensive Security
+- Secure Architecture
+- Distributed Systems
+- AI Applications
+- Startup Operations
+- Product Engineering
+
+---
+
+# What I'm Working Towards
+
+```text
+Building products that solve real problems
+↓
+Growing successful startups
+↓
+Creating resilient and secure systems
+↓
+Scaling impact through technology
+```
+
+---
+
+# Let's Connect
+
+Open to:
+
+- Startup collaborations
+- Security projects
+- Full-stack development
+- Building ambitious products
+
+---
+
+<div align="center">
+
+### Build. Break. Learn. Repeat.
+
+</div>
