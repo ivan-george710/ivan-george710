@@ -126,9 +126,19 @@ Currently interested in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ivan-george710&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+<a href="https://github.com/Ivan-george710">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ivan-george710&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    height="170"
+  />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-george710&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<a href="https://github.com/Ivan-george710">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-george710&layout=compact&hide_border=true&theme=transparent"
+    height="170"
+  />
+</a>
 
 </div>
 
@@ -138,11 +148,12 @@ Currently interested in:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-george710&hide_border=true&area=true&theme=github-compact" width="95%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-george710&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+/>
 
 </div>
-
----
 
 ## 🌍 Languages
 
