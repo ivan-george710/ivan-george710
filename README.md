@@ -128,14 +128,14 @@ Currently interested in:
 
 <a href="https://github.com/Ivan-george710">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ivan-george710&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=ivan-george710&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
     height="170"
   />
 </a>
 
 <a href="https://github.com/Ivan-george710">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-george710&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-george710&layout=compact&hide_border=true&theme=transparent"
     height="170"
   />
 </a>
@@ -149,7 +149,7 @@ Currently interested in:
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-george710&theme=github-compact&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ivan-george710&theme=github-compact&hide_border=true&area=true"
   width="95%"
 />
 
